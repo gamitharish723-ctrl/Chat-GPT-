@@ -1,0 +1,116 @@
+
+<!DOCTYPE html>
+<html lang="gu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ChatGPT - AI ની દુનિયા</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f7ff;
+  color: #183153;
+  text-align: center;
+}
+header {
+  background: linear-gradient(135deg, #075985, #7c3aed);
+  color: white;
+  padding: 30px 15px;
+}
+h1 { font-size: 32px; }
+section {
+  background: white;
+  margin: 18px;
+  padding: 22px;
+  border-radius: 18px;
+  box-shadow: 0 4px 12px #ccd6e0;
+}
+.picture { font-size: 65px; }
+h2 { color: #6d28d9; }
+.card {
+  background: #e0f2fe;
+  margin: 10px 0;
+  padding: 14px;
+  border-radius: 12px;
+}
+footer {
+  background: #183153;
+  color: white;
+  padding: 18px;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="picture">🤖💡</div>
+  <h1>ChatGPT અને કૃત્રિમ બુદ્ધિ</h1>
+  <h3>બાળ વૈજ્ઞાનિક પ્રદર્શન 2026-27</h3>
+  <p>AI ની અદ્ભુત દુનિયામાં આપનું સ્વાગત છે!</p>
+</header>
+
+<section>
+  <div class="picture">🧠✨</div>
+  <h2>ChatGPT શું છે?</h2>
+  <p>ChatGPT એ OpenAI દ્વારા બનાવવામાં આવેલું
+  AI આધારિત સહાયક છે. તે પ્રશ્નોના જવાબ આપવા,
+  લખાણ તૈયાર કરવા, અભ્યાસમાં મદદ કરવા અને
+  નવા વિચારો શોધવામાં મદદ કરી શકે છે.</p>
+</section>
+
+<section>
+  <div class="picture">📥➡️🤖➡️📤</div>
+  <h2>Input અને Output</h2>
+  <div class="card">
+    <h3>📥 Input એટલે શું?</h3>
+    <p>આપણે AI ને આપેલી સૂચના, પ્રશ્ન,
+    લખાણ અથવા ચિત્ર.</p>
+  </div>
+  <div class="card">
+    <h3>📤 Output એટલે શું?</h3>
+    <p>AI દ્વારા મળતો જવાબ, લખાણ,
+    સમજાવટ અથવા અન્ય પરિણામ.</p>
+  </div>
+  <p><b>ઉદાહરણ:</b> પ્રશ્ન: સૂર્યમંડળ શું છે?</p>
+  <p>જવાબ: સૂર્ય અને તેની આસપાસ ફરતા
+  ગ્રહો તથા અન્ય અવકાશી પદાર્થોનો સમૂહ.</p>
+</section>
+
+<section>
+  <div class="picture">📚🔬🎨</div>
+  <h2>ChatGPT ના ઉપયોગો</h2>
+  <div class="card">📚 શિક્ષણ અને અભ્યાસ</div>
+  <div class="card">🔬 વિજ્ઞાનના પ્રયોગો સમજવા</div>
+  <div class="card">✍️ વાર્તા અને લેખ લખવા</div>
+  <div class="card">💻 કમ્પ્યુટર કોડિંગ શીખવા</div>
+  <div class="card">🌍 નવી માહિતી મેળવવા</div>
+</section>
+
+<section>
+  <div class="picture">⚠️🛡️</div>
+  <h2>AI ની મર્યાદાઓ</h2>
+  <p>• AI ક્યારેક ખોટો જવાબ આપી શકે છે.</p>
+  <p>• દરેક જવાબની વિશ્વસનીયતા તપાસવી જોઈએ.</p>
+  <p>• અંગત માહિતી શેર કરવી નહીં.</p>
+  <p>• મહત્વપૂર્ણ માહિતી માટે વિશ્વસનીય
+  સ્ત્રોતોનો ઉપયોગ કરવો.</p>
+</section>
+
+<section>
+  <div class="picture">🌟🚀</div>
+  <h2>નિષ્કર્ષ</h2>
+  <p>AI આપણું કામ સરળ બનાવી શકે છે.
+  તેનો સમજદારીપૂર્વક અને જવાબદારીથી
+  ઉપયોગ કરવો જોઈએ.</p>
+  <h3>ધન્યવાદ! 🙏</h3>
+</section>
+
+<footer>
+  <p>બાળ વૈજ્ઞાનિક પ્રદર્શન 2026-27</p>
+  <p>જાણો • શીખો • નવીનતા લાવો</p>
+</footer>
+
+</body>
+</html>
+
